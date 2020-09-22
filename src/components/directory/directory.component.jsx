@@ -18,6 +18,6 @@ const Directory = ({sections}) => (
      sections: selectDirectorySections
 });
 
-export default connect(
-  mapStateToProps)
+export default connect
+  (mapStateToProps)
   (Directory);
