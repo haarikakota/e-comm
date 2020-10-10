@@ -1,4 +1,4 @@
-# Ecommerce App built on React.js
+![Ecommerce App built on React.js](./banner.png)
 
 ### Steps to run dev env
 
